@@ -1,0 +1,8 @@
+[package]
+name = "cah_client"
+version = "0.1.0"
+authors = ["Patrick M. Howard <pmontgomeryhoward@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+cah_game = {path = "../cah_game"}
